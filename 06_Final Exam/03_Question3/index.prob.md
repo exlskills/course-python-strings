@@ -1,6 +1,6 @@
->> Question Goes Here <<
-() Answer 1
-() Answer 2
-() Answer 3
-() Answer 4
-|| Hint Goes Here ||
+>> I have a variable `x= "Hello World!"`, how would I remove the exclemation mark? <<
+() `x.remove()`
+() `x.strip()`
+(x) `x.strip('!')`
+() None of the above
+|| Check out the languages ||

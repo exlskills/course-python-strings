@@ -1,6 +1,6 @@
->> Question Goes Here <<
-() Answer 1
-() Answer 2
-() Answer 3
-() Answer 4
-|| Hint Goes Here ||
+>> Rate this course on a scale of 1 - 4 <<
+(x) 1
+(x) 2
+(x) 3
+(x) 4
+|| Let us know how this course went for you ||
