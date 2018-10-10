@@ -1,4 +1,4 @@
-# Iterating through a string
+### Iterating through a string
 
 One of the most useful applications in python are for loops & iterables.  
 

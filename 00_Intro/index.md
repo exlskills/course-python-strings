@@ -1,4 +1,4 @@
-# Strings!
+### Strings!
 
 In python a string is grouping of text, and in python the string (`str`) class is very powerful and can allow you to do a multitude of operations.
 

@@ -1,4 +1,4 @@
-# Lists
+### Lists
 
 Now, we have been able to iterate through a string, but so far we have only had the ability to go through each letter.  Lets say for example that you are trying to iterate through each word in a string, rather than each letter.  Using python this is simple using the `string.split(' ')` method!
 

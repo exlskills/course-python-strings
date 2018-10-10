@@ -1,4 +1,4 @@
-# Replace and Strip
+### Replace and Strip
 
 A very useful method is called `replace('char_to_replace','replacement')`.  We use this to get rid of punctuation or any characters that we do not want in our string.  For examples, consider the sentence with bad punctuation:
 

@@ -1,4 +1,4 @@
-## Join
+### Join
 
 Finally, we are going to take a look at how we can take a list of strings and joining them together in a single string.  To start, here is the list that we will try to put back together with a space in between each word:
 
